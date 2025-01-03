@@ -126,7 +126,7 @@
 
     | Recitation | Meaning |
     |--------|-------------------|
-    | Subhana Rabbiyal A'la wa bihamdih\nSubhana Allah\nSubhana Allah\nSubhana Allah | Glory be to my Lord, the Most High, and praise be to Him\nGlory be to Allah\nGlory be to Allah\nGlory be to Allah |
+    | Subhana Rabbiyal A'la wa bihamdih \nSubhana Allah \nSubhana Allah \nSubhana Allah | Glory be to my Lord, the Most High, and praise be to Him\nGlory be to Allah\nGlory be to Allah\nGlory be to Allah |
 
 11. **Rise for Second Rak'ah**:
     *   Say while rising:
