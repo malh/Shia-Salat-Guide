@@ -3,29 +3,38 @@
 ## Prayer Flow Diagram
 
 ```mermaid
-    graph TD
-    A["Start: Intention (Niyyah)"] --> B["Takbirat-ul-Ihram"]
-    B --> C["First Rak'ah"]
-    C --> C1["Qiyam: Surah Al-Fatiha and Al-Ikhlas"]
-    C1 --> D["Ruku (Bowing)"]
-    D --> D1["Rise: Sami' Allahu liman Hamidah"]
-    D1 --> E["First Sujud"]
-    E --> F["Sit Between Sujud"]
-    F --> G["Second Sujud"]
-    G --> H["Rise for Second Rak'ah"]
-    H --> H1["Recite: biḥawlil lāhi wa quwwatihi aqūmu wa aqʿud"]
-    H1 --> I["Second Rak'ah"]
-    I --> I1["Qiyam: Surah Al-Fatiha and Al-Ikhlas"]
-    I1 --> J["Ruku (Bowing)"]
-    J --> J1["Rise: Sami' Allahu liman Hamidah"]
-    J1 --> K["First Sujud"]
-    K --> L["Sit Between Sujud"]
-    L --> M["Second Sujud"]
-    M --> N["Tashahhud"]
-    N --> O["Salam"]
-    O --> P["Optional: Three Takbirs"]
-    P --> Q["Post-Prayer Supplications"]
-    Q --> R["End"]
+graph TD
+    subgraph Rak'ah 1
+        A1["Start: Intention (Niyyah)"] --> B1["Takbirat-ul-Ihram"]
+        B1 --> C1["Qiyam: Surah Al-Fatiha and Al-Ikhlas"]
+        C1 --> D1["Ruku (Bowing)"]
+        D1 --> E1["Rise: Sami' Allahu liman Hamidah"]
+        E1 --> F1["First Sujud"]
+        F1 --> G1["Sit Between Sujud"]
+        G1 --> H1["Second Sujud"]
+    end
+
+    subgraph Transition
+        H1 --> I["Rise for Second Rak'ah"]
+        I --> J["Recite: biḥawlil lāhi wa quwwatihi aqūmu wa aqʿud"]
+    end
+
+    subgraph Rak'ah 2
+        J --> C2["Qiyam: Surah Al-Fatiha and Al-Ikhlas"]
+        C2 --> D2["Ruku (Bowing)"]
+        D2 --> E2["Rise: Sami' Allahu liman Hamidah"]
+        E2 --> F2["First Sujud"]
+        F2 --> G2["Sit Between Sujud"]
+        G2 --> H2["Second Sujud"]
+    end
+
+    subgraph Conclusion
+        H2 --> N["Tashahhud"]
+        N --> O["Salam"]
+        O --> P["Optional: Three Takbirs"]
+        P --> Q["Post-Prayer Supplications"]
+        Q --> R["End"]
+    end
 ```
 
 ## Preparation Steps
