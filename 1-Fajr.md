@@ -96,7 +96,7 @@
 
     | Recitation | Meaning |
     |--------|-------------------|
-    | Subhana Rabbiyal A'la wa bihamdih | Glory be to my Lord, the Most High, and praise be to Him |
+    | Subhana Rabbiyal A'la wa bihamdih\nSubhana Allah\nSubhana Allah\nSubhana Allah | Glory be to my Lord, the Most High, and praise be to Him\nGlory be to Allah\nGlory be to Allah\nGlory be to Allah |
 
 8.  **Rise from First Sujud**:
     *   Say while rising:
@@ -105,7 +105,13 @@
     |--------|-------------------|
     | Allahu Akbar | Allah is the Greatest |
 
-    *   Sit briefly between prostrations. Hands rest on thighs.
+    *   Sit briefly between prostrations (jalsa)
+    *   Hands rest on thighs
+    *   You may recite:
+
+    | Recitation | Meaning |
+    |--------|-------------------|
+    | Astaghfirullaaha rabbee wa atoobu ilayh | I ask forgiveness of God, my Lord, and turn towards Him |
 
 9.  **Move to Second Sujud**:
     *   Say while moving down:
@@ -120,7 +126,7 @@
 
     | Recitation | Meaning |
     |--------|-------------------|
-    | Subhana Rabbiyal A'la wa bihamdih | Glory be to my Lord, the Most High, and praise be to Him |
+    | Subhana Rabbiyal A'la wa bihamdih\nSubhana Allah\nSubhana Allah\nSubhana Allah | Glory be to my Lord, the Most High, and praise be to Him\nGlory be to Allah\nGlory be to Allah\nGlory be to Allah |
 
 11. **Rise for Second Rak'ah**:
     *   Say while rising:
@@ -179,7 +185,7 @@
 
     | Recitation | Meaning |
     |--------|-------------------|
-    | Subhana Rabbiyal A'la wa bihamdih | Glory be to my Lord, the Most High, and praise be to Him |
+    | Subhana Rabbiyal A'la wa bihamdih\nSubhana Allah\nSubhana Allah\nSubhana Allah | Glory be to my Lord, the Most High, and praise be to Him\nGlory be to Allah\nGlory be to Allah\nGlory be to Allah |
 
 7.  **Rise from First Sujud**:
     *   Say while rising:
@@ -188,7 +194,13 @@
     |--------|-------------------|
     | Allahu Akbar | Allah is the Greatest |
 
-    *   Sit briefly.
+    *   Sit briefly (jalsa)
+    *   Hands rest on thighs
+    *   You may recite:
+
+    | Recitation | Meaning |
+    |--------|-------------------|
+    | Astaghfirullaaha rabbee wa atoobu ilayh | I ask forgiveness of God, my Lord, and turn towards Him |
 
 8.  **Move to Second Sujud**:
     *   Say while moving down:
@@ -203,7 +215,7 @@
 
     | Recitation | Meaning |
     |--------|-------------------|
-    | Subhana Rabbiyal A'la wa bihamdih | Glory be to my Lord, the Most High, and praise be to Him |
+    | Subhana Rabbiyal A'la wa bihamdih\nSubhana Allah\nSubhana Allah\nSubhana Allah | Glory be to my Lord, the Most High, and praise be to Him\nGlory be to Allah\nGlory be to Allah\nGlory be to Allah |
 
 10. **Rise to Sitting Position**:
     *   While rising from the second Sujud, raise your hands to the ears three times, saying:
