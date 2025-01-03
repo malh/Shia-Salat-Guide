@@ -1,4 +1,4 @@
-# Daily_Salat_Instructions
+# Shia Salat Guide
 
 This repository provides **detailed instructions** for performing the five daily prayers (Salat) according to **Shi'a Muslim practice**. Each prayer is documented in a separate Markdown file for ease of access and use.
 
